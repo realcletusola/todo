@@ -6,4 +6,4 @@ A todo application that interacts with REST API
 
 
 
-![todo](https://github.com/realcletusola/todo/assets/136508148/d1d5882e-4db8-4a9b-b90f-4d948ff1780d)
+![todo](https://github.com/realcletusola/todo/assets/136508148/aebf512c-a7a4-425e-8b94-bda5675c804a)
